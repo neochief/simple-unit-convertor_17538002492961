@@ -1,0 +1,30 @@
+{
+  "name": "simple-unit-convertor",
+  "version": "1.0.0",
+  "description": "A simple unit conversion library for length and mass",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "test:ui": "vitest --ui"
+  },
+  "keywords": [
+    "convert",
+    "units",
+    "conversion",
+    "mass",
+    "length",
+    "javascript"
+  ],
+  "author": "Alexander Shvets",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^1.0.0"
+  },
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=16"
+  }
+}
